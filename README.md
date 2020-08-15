@@ -1,2 +1,2 @@
-# likewater
-Bruce Lee likes water.
+My repo containing various scripts I've written.
+
