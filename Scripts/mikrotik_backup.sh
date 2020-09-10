@@ -2,7 +2,8 @@
 
 ##########################################------------,,,,,,,,,,,,,
 # MikroTik Backup Script
-# by Jonathan Morgan
+# by DataBonanza
+# http://github.com/databonanza
 # v.1 beta
 #
 # 1. Edit TZ, MACHINES, KEY, MT_USER, and BU_DAYS for this script to work on your network.
