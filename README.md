@@ -1,2 +1,2 @@
-My repo containing various scripts I've written.
+My repo containing a few scripts I've written.
 
